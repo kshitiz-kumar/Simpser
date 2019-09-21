@@ -1,4 +1,4 @@
 # Simpser
 <br>
-Here I will be working on an Android Application that will use the Text Regonition Ml model to <br>
-make the search easier.
+"Simpser" an acronym for Simplified Search. Here I wiil be working on integrating an ML model into an<br>
+application, wiht the aim on making the search easier.
